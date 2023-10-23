@@ -14,7 +14,6 @@ module.exports = {
   ignoredRouteFiles: ["**/.*"],
   // See https://remix.run/docs/en/main/file-conventions/route-files-v2
   future: {
-    v2_routeConvention: true,
   }
   // add your own custom config here if you want to.
   //
